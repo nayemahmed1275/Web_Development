@@ -1,0 +1,7 @@
+# Backend tutorial start from here....
+
+1.We use node js for run time enviroment..
+
+2. install npn for getting modules..
+
+3. A file name modules its control and bounding all packages info.. if it delete just write nmp installl command..

@@ -1,14 +1,14 @@
 {
-  "name": "backend",
+  "name": "videos-85",
   "version": "1.0.0",
-  "description": "backend learning",
   "main": "backend.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node backend.js"
   },
-  "author": "nayem",
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "express": "^4.21.0"
   }
